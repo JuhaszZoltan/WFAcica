@@ -1,0 +1,9 @@
+kérdés 1;A;B;C;D
+kérdés 2;a;B;C;d
+kérdés 3;A;b;C;D
+kérdés 4;a;B;c;D
+kérdés 5;A;B;C;d
+kérdés 6;a;b;C;D
+kérdés 7;A;B;C;d
+kérdés 8;a;B;c;D
+kérdés 9;A;b;C;D
